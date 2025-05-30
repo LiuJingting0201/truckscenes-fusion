@@ -1,0 +1,6 @@
+# Ignore raw data files and outputs
+data/
+output/visualizations/
+env/
+__pycache__/
+*.pyc
